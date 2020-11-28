@@ -8,7 +8,9 @@ Comparación de las arquitecturas Faster RCNN vs SSD+ Movilnet para la detecció
 ## Guia Para reproducción de Resultados
 Existen dos carpetas, una cada una por cada enfoque, en el archivo .pptx encontrará la información de como estructurar sus carpetas de imágenes, 
 así mismo encontrará los links para poder descargar las fotos para el entrenamiento y validación.
+
 Faster Rcnn : En el Notebook de training phase podrá encontrar todas las funciones creadas y las dependencias para poder ejecutar el notebook
+
 MovileNet : Revisar el archivo .py que cuenta con las instrucciones.
 
 
