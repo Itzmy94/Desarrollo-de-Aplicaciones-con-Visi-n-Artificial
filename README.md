@@ -16,5 +16,6 @@ MovileNet : Revisar el archivo .py que cuenta con las instrucciones.
 
 ## Integrantes :
 -Alexis Coronado (https://www.linkedin.com/in/alexis-coronado-ortiz-ab5b08117/)
+
 -Tamara Reategui 
 
